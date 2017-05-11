@@ -1,4 +1,4 @@
-Testing app.vue.
+Everything in this section goes through the repurposed router.
 
 <template>
 <div class="message">{{ msg }}</div>
