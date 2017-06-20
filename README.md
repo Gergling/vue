@@ -1,3 +1,5 @@
+# Setup
+
 * clone
 * npm install
-* npm start
+* npm run compile
